@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="805"
+   height="600"
+   version="1.1"
+   id="svg46"
+   sodipodi:docname="Box_plot_Mes_2.svg"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs46">
+    <rect
+       x="-3.4285714"
+       y="274.28571"
+       width="53.142857"
+       height="24.857143"
+       id="rect50" />
+    <rect
+       x="9.4285714"
+       y="222.85714"
+       width="31.714286"
+       height="23.142857"
+       id="rect49" />
+    <rect
+       x="9.4285714"
+       y="218.57143"
+       width="32.571429"
+       height="22.285714"
+       id="rect48" />
+    <rect
+       x="2.5714286"
+       y="219.42857"
+       width="39.428571"
+       height="25.714286"
+       id="rect47" />
+    <rect
+       x="-5.1428571"
+       y="50.571429"
+       width="48"
+       height="24.857143"
+       id="rect46" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview46"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.85423501"
+     inkscape:cx="446.59841"
+     inkscape:cy="372.2629"
+     inkscape:window-width="1472"
+     inkscape:window-height="919"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g38" />
+  <rect
+     width="805"
+     height="600"
+     x="0"
+     y="0"
+     fill="#FFFFFF"
+     id="background" />
+  <g
+     transform="translate(50,10)"
+     id="viz">
+    <g
+       id="y axis"
+       fill="none"
+       font-size="10"
+       font-family="sans-serif"
+       text-anchor="end">
+      <path
+         class="domain"
+         stroke="currentColor"
+         d="M-6,560H0V0H-6"
+         id="path1" />
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,560)"
+         id="g1">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line1" />
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="0.32em"
+           id="text1">0</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,504)"
+         id="g2">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line2" />
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="0.32em"
+           id="text2">50,000</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,336)"
+         id="g5">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line5" />
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="0.32em"
+           id="text5">200,000</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,280)"
+         id="g6">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line6" />
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,168.00000000000003)"
+         id="g8">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line8" />
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="0.32em"
+           id="text8">350,000</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,111.99999999999997)"
+         id="g9">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line9" />
+        <text
+           fill="currentColor"
+           x="-9"
+           id="text9" />
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,55.999999999999986)"
+         id="g10">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line10" />
+        <text
+           fill="currentColor"
+           x="-9"
+           id="text10" />
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,0)"
+         id="g11">
+        <line
+           stroke="currentColor"
+           x2="-6"
+           id="line11" />
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="0.32em"
+           id="text11">500,000</text>
+      </g>
+      <text
+         xml:space="preserve"
+         transform="translate(-50,-10)"
+         id="text46"
+         style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect47);display:inline;fill:#000000" />
+      <text
+         xml:space="preserve"
+         transform="translate(-50,-10)"
+         id="text47"
+         style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect48);display:inline;fill:#000000" />
+      <text
+         xml:space="preserve"
+         transform="translate(-50,-10)"
+         id="text48"
+         style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect49);display:inline;fill:#000000" />
+      <text
+         xml:space="preserve"
+         transform="translate(-50,-10)"
+         id="text49"
+         style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect50);display:inline;fill:#000000" />
+    </g>
+    <g
+       id="x axis"
+       transform="translate(0,560)"
+       fill="none"
+       font-size="10"
+       font-family="sans-serif"
+       text-anchor="middle">
+      <path
+         class="domain"
+         stroke="currentColor"
+         d="M0,6V0H745V6"
+         id="path12" />
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(55,0)"
+         id="g13">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line12" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           id="text13">2019</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(161,0)"
+         id="g14">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line13" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           id="text14">2020</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(267,0)"
+         id="g15">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line14" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           id="text15">2021</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(373,0)"
+         id="g16">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line15" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           id="text16">2022</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(479,0)"
+         id="g17">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line16" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           id="text17">2023</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(585,0)"
+         id="g18">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line17" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           id="text18">2024</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(691,0)"
+         id="g19">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line18" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           id="text19">2025</text>
+      </g>
+    </g>
+    <g
+       id="boxplots">
+      <g
+         id="g22"
+         style="fill:#c00ec5;fill-opacity:1">
+        <line
+           x1="55"
+           x2="55"
+           y1="356.31568"
+           y2="427.49951999999996"
+           stroke="#1f77b4"
+           stroke-dasharray="4"
+           id="line19"
+           style="fill:#c00ec5;fill-opacity:1" />
+        <line
+           x1="35"
+           x2="75"
+           y1="356.31568"
+           y2="356.31568"
+           stroke="#1f77b4"
+           id="line20"
+           style="fill:#c00ec5;fill-opacity:1" />
+        <line
+           x1="35"
+           x2="75"
+           y1="427.49951999999996"
+           y2="427.49951999999996"
+           stroke="#1f77b4"
+           id="line21"
+           style="fill:#c00ec5;fill-opacity:1" />
+        <rect
+           x="35"
+           y="363.70992"
+           width="40"
+           height="48.25576000000001"
+           fill="#1f77b4"
+           id="rect21"
+           style="fill:#c00ec5;fill-opacity:1" />
+        <line
+           x1="35"
+           y1="388.66072"
+           x2="75"
+           y2="388.66072"
+           stroke="#FFFFFF"
+           id="line22"
+           style="fill:#c00ec5;fill-opacity:1" />
+      </g>
+      <g
+         id="g26">
+        <line
+           x1="161"
+           x2="161"
+           y1="362.40736000000004"
+           y2="541.23104"
+           stroke="#1f77b4"
+           stroke-dasharray="4"
+           id="line23" />
+        <line
+           x1="141"
+           x2="181"
+           y1="362.40736000000004"
+           y2="362.40736000000004"
+           stroke="#1f77b4"
+           id="line24" />
+        <line
+           x1="141"
+           x2="181"
+           y1="541.23104"
+           y2="541.23104"
+           stroke="#1f77b4"
+           id="line25" />
+        <rect
+           x="141"
+           y="440.84208"
+           width="40"
+           height="84.6132"
+           fill="#1f77b4"
+           id="rect25" />
+        <line
+           x1="141"
+           y1="485.0076"
+           x2="181"
+           y2="485.0076"
+           stroke="#FFFFFF"
+           id="line26" />
+      </g>
+      <g
+         id="g30">
+        <line
+           x1="267"
+           x2="267"
+           y1="97.24217999999998"
+           y2="390.712"
+           stroke="#1f77b4"
+           stroke-dasharray="4"
+           id="line27" />
+        <line
+           x1="247"
+           x2="287"
+           y1="97.24217999999998"
+           y2="97.24217999999998"
+           stroke="#1f77b4"
+           id="line28" />
+        <line
+           x1="247"
+           x2="287"
+           y1="390.712"
+           y2="390.712"
+           stroke="#1f77b4"
+           id="line29" />
+        <rect
+           x="247"
+           y="214.54776000000004"
+           width="40"
+           height="78.20371999999998"
+           fill="#1f77b4"
+           id="rect29"
+           style="fill:#1fb431;fill-opacity:1" />
+        <line
+           x1="247"
+           y1="276.41824"
+           x2="287"
+           y2="276.41824"
+           stroke="#FFFFFF"
+           id="line30" />
+        <circle
+           r="1"
+           cx="267"
+           cy="96.21023999999997"
+           fill="#FFFFFF"
+           stroke="#1f77b4"
+           id="circle30" />
+      </g>
+      <g
+         id="g34">
+        <line
+           x1="373"
+           x2="373"
+           y1="125.32408000000001"
+           y2="290.22672"
+           stroke="#1f77b4"
+           stroke-dasharray="4"
+           id="line31" />
+        <line
+           x1="353"
+           x2="393"
+           y1="125.32408000000001"
+           y2="125.32408000000001"
+           stroke="#1f77b4"
+           id="line32" />
+        <line
+           x1="353"
+           x2="393"
+           y1="290.22672"
+           y2="290.22672"
+           stroke="#1f77b4"
+           id="line33" />
+        <rect
+           x="353"
+           y="196.4578"
+           width="40"
+           height="47.42247999999998"
+           fill="#1f77b4"
+           id="rect33"
+           style="fill:#5e27da;fill-opacity:1" />
+        <line
+           x1="353"
+           y1="235.52087999999998"
+           x2="393"
+           y2="235.52087999999998"
+           stroke="#FFFFFF"
+           id="line34" />
+        <circle
+           r="1"
+           cx="373"
+           cy="110.98191999999999"
+           fill="#FFFFFF"
+           stroke="#1f77b4"
+           id="circle34" />
+      </g>
+      <g
+         id="g38">
+        <line
+           x1="479"
+           x2="479"
+           y1="245.67088"
+           y2="368.08002"
+           stroke="#1f77b4"
+           stroke-dasharray="4"
+           id="line35" />
+        <line
+           x1="459"
+           x2="499"
+           y1="245.67088"
+           y2="245.67088"
+           stroke="#1f77b4"
+           id="line36" />
+        <line
+           x1="459"
+           x2="499"
+           y1="368.08002"
+           y2="368.08002"
+           stroke="#1f77b4"
+           id="line37" />
+        <rect
+           x="459"
+           y="271.07331999999997"
+           width="40"
+           height="38.80268000000001"
+           fill="#1f77b4"
+           id="rect37"
+           style="fill:#e19711;fill-opacity:1" />
+        <line
+           x1="459"
+           y1="298.32095999999996"
+           x2="499"
+           y2="298.32095999999996"
+           stroke="#FFFFFF"
+           id="line38" />
+        <circle
+           r="1"
+           cx="479"
+           cy="368.98848000000004"
+           fill="#FFFFFF"
+           stroke="#1f77b4"
+           id="circle38" />
+      </g>
+      <g
+         id="g42">
+        <line
+           x1="585"
+           x2="585"
+           y1="250.96049999999997"
+           y2="317.18735999999996"
+           stroke="#1f77b4"
+           stroke-dasharray="4"
+           id="line39" />
+        <line
+           x1="565"
+           x2="605"
+           y1="250.96049999999997"
+           y2="250.96049999999997"
+           stroke="#1f77b4"
+           id="line40" />
+        <line
+           x1="565"
+           x2="605"
+           y1="317.18735999999996"
+           y2="317.18735999999996"
+           stroke="#1f77b4"
+           id="line41" />
+        <rect
+           x="565"
+           y="287.16324000000003"
+           width="40"
+           height="24.135159999999985"
+           fill="#1f77b4"
+           id="rect41"
+           style="fill:#f2d713;fill-opacity:1" />
+        <line
+           x1="565"
+           y1="301.44408"
+           x2="605"
+           y2="301.44408"
+           stroke="#FFFFFF"
+           id="line42" />
+        <circle
+           r="1"
+           cx="585"
+           cy="26.862080000000006"
+           fill="#FFFFFF"
+           stroke="#1f77b4"
+           id="circle42" />
+      </g>
+      <g
+         id="g46">
+        <line
+           x1="691"
+           x2="691"
+           y1="119.26516000000002"
+           y2="454.92496"
+           stroke="#1f77b4"
+           stroke-dasharray="4"
+           id="line43" />
+        <line
+           x1="671"
+           x2="711"
+           y1="119.26516000000002"
+           y2="119.26516000000002"
+           stroke="#1f77b4"
+           id="line44" />
+        <line
+           x1="671"
+           x2="711"
+           y1="454.92496"
+           y2="454.92496"
+           stroke="#1f77b4"
+           id="line45" />
+        <rect
+           x="671"
+           y="247.93048000000002"
+           width="40"
+           height="85.77688000000003"
+           fill="#1f77b4"
+           id="rect45"
+           style="fill:#f777b4;fill-opacity:1" />
+        <line
+           x1="671"
+           y1="288.95664000000005"
+           x2="711"
+           y2="288.95664000000005"
+           stroke="#FFFFFF"
+           id="line46" />
+        <circle
+           r="1"
+           cx="691"
+           cy="42.48160000000002"
+           fill="#FFFFFF"
+           stroke="#1f77b4"
+           id="circle46" />
+        <text
+           xml:space="preserve"
+           style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f777b4;fill-opacity:1"
+           x="8.2857161"
+           y="4.5714269"
+           id="text51"><tspan
+             sodipodi:role="line"
+             id="tspan51"
+             x="8.2857161"
+             y="4.5714269"
+             style="fill:#000000;fill-opacity:1">PASOS</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
