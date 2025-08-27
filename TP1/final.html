@@ -4,10 +4,8 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>TP1_Julia</title>
-
     <!-- Fuente Poppins desde Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet" />
-
     <!-- Estilos -->
     <style>
       :root {
@@ -29,15 +27,25 @@
         margin-bottom: 30px;
       }
 
-      h2, h3, h4 {
+      h2,
+      h3,
+      h4 {
         font-weight: 500;
         margin-top: 40px;
         margin-bottom: 15px;
       }
 
-      h2 { font-size: 24px; }
-      h3 { font-size: 18px; }
-      h4 { font-size: 14px; }
+      h2 {
+        font-size: 24px;
+      }
+
+      h3 {
+        font-size: 18px;
+      }
+
+      h4 {
+        font-size: 14px;
+      }
 
       .flourish-embed {
         margin-bottom: var(--spacing);
@@ -70,22 +78,18 @@
         min-height: 216px;
       }
     </style>
-
     <!-- Script de Flourish (una sola vez) -->
     <script src="https://public.flourish.studio/resources/embed.js"></script>
   </head>
-
   <body>
     <section aria-label="Evolución de pasos">
       <h1>¿Cómo fue evolucionando la cantidad de pasos a lo largo de los últimos años?</h1>
-
       <h2>¿Cuántos pasos dí por mes?</h2>
       <div class="flourish-embed flourish-heatmap" data-src="visualisation/24768933">
         <noscript>
           <img src="https://public.flourish.studio/visualisation/24768933/thumbnail" width="100%" alt="Mapa de calor de pasos por mes" />
         </noscript>
       </div>
-
       <h2>¿Cómo fue el detalle de cada mes?</h2>
       <div class="flourish-embed flourish-scatter" data-src="visualisation/24752285">
         <noscript>
@@ -93,19 +97,11 @@
         </noscript>
       </div>
     </section>
-
     <section aria-label="Comparativa anual">
       <h3>¿Cómo es la comparativa entre los años analizados?</h3>
       <h4>
-        <span style="color: #9757b8ff;">2019</span>,
-        <span style="color: #e06bdfff;">2020</span>,
-        <span style="color: #27387bff;">2021</span>,
-        <span style="color: #08306bff;">2022</span>,
-        <span style="color: #49428eff;">2023</span>,
-        <span style="color: #363d84ff;">2024</span>,
-        <span style="color: #8a54b1ff;">2025</span>
+        <span style="color: #9757b8ff;">2019</span>, <span style="color: #e06bdfff;">2020</span>, <span style="color: #27387bff;">2021</span>, <span style="color: #08306bff;">2022</span>, <span style="color: #49428eff;">2023</span>, <span style="color: #363d84ff;">2024</span>, <span style="color: #8a54b1ff;">2025</span>
       </h4>
-
       <div class="visual-pair">
         <div class="visual-column">
           <object data="https://majusalas.github.io/infovis/TP1/Treemap_3.svg" type="image/svg+xml"></object>
@@ -120,7 +116,6 @@
         </div>
       </div>
     </section>
-
     <section aria-label="Eventos importantes">
       <h2>¿Cuáles fueron algunos hechos importantes que impactaron en los datos analizados?</h2>
       <div class="flourish-embed flourish-cards" data-src="visualisation/24816454">
@@ -129,15 +124,52 @@
         </noscript>
       </div>
     </section>
-
-    <section aria-label="Comparativa por país">
-      <h2>¿En promedio, en qué país caminé más?</h2>
-      <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/24813884">
-        <noscript>
-          <img src="https://public.flourish.studio/visualisation/24813884/thumbnail" width="100%" alt="Carrera de barras por país" />
-        </noscript>
+    <section aria-label="Posición geográfica">
+      <h2>¿En promedio, en qué país o ciudad caminé más?</h2>
+      <p>Este análisis combina datos de ubicación y pasos para estimar en qué países se registró mayor actividad física. Se incluyen visualizaciones dinámicas y un mapa interactivo para explorar los patrones geográficos.</p>
+      <div class="visual-pair">
+        <div class="visual-column">
+          <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/24813884">
+            <noscript>
+              <img src="https://public.flourish.studio/visualisation/24813884/thumbnail" width="100%" alt="Carrera de barras por país" />
+            </noscript>
+          </div>
+        </div>
+        <div class="visual-column">
+          <div class="tableauPlaceholder" id="viz1756252156081" style="position: relative">
+            <noscript>
+              <a href="#">
+                <img alt="Mapa interactivo por país" src="https://public.tableau.com/static/images/Ma/Mapa_17561690773520/Hoja1/1_rss.png" style="border: none" />
+              </a>
+            </noscript>
+            <object class="tableauViz" style="display:none;">
+              <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+              <param name="embed_code_version" value="3" />
+              <param name="site_root" value="" />
+              <param name="name" value="Mapa_17561690773520/Hoja1" />
+              <param name="tabs" value="no" />
+              <param name="toolbar" value="yes" />
+              <param name="static_image" value="https://public.tableau.com/static/images/Ma/Mapa_17561690773520/Hoja1/1.png" />
+              <param name="animate_transition" value="yes" />
+              <param name="display_static_image" value="yes" />
+              <param name="display_spinner" value="yes" />
+              <param name="display_overlay" value="yes" />
+              <param name="display_count" value="yes" />
+              <param name="language" value="es-ES" />
+              <param name="filter" value="publish=yes" />
+            </object>
+          </div>
+          <script type="text/javascript">
+            var divElement = document.getElementById('viz1756252156081');
+            var vizElement = divElement.getElementsByTagName('object')[0];
+            vizElement.style.width = '100%';
+            vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+            var scriptElement = document.createElement('script');
+            scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+            vizElement.parentNode.insertBefore(scriptElement, vizElement);
+          </script>
+        </div>
       </div>
     </section>
   </body>
 </html>
-
